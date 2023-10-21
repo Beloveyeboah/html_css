@@ -1,0 +1,5 @@
+#conic {
+    background-image: conic-gradient(pink, blue);
+    height: 400px;
+    width: 400px;
+}

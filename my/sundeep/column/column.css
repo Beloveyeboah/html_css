@@ -1,0 +1,16 @@
+ p {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    column-count: 2;
+    color: bisque;
+    column-rule-style: dashed;
+    column-rule-width: 20px;
+    column-rule-color: black;
+ }
+ #bs {text-align: left;
+    text-transform: uppercase;
+    column-span: all;
+    text-decoration: dotted;
+
+ }

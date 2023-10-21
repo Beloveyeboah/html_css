@@ -1,0 +1,4 @@
+#grad {height: 300px;
+    width: 600px;
+    background-image: linear-gradient(360deg, red, yellow, green);
+}

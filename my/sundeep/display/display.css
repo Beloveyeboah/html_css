@@ -1,0 +1,11 @@
+h1, h2 {
+    display: inline;
+    text-transform: uppercase;
+}
+
+a {
+    display: block;
+}
+img {
+    float: left;
+}

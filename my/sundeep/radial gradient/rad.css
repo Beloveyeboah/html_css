@@ -1,0 +1,4 @@
+#rad {height: 400px;
+    width: 400px;
+    background-image: radial-gradient(red, yellow, green)
+}
